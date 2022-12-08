@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mercybassey/the-backend-to-my-shopping-website#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.18.2"
   }
 }
